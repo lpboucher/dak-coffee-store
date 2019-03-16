@@ -64,13 +64,6 @@ export const pageQuery = graphql`
             }
           }
           slug
-          material
-          max_watt
-          bulb_qty
-          bulb
-          new
-          sku
-          finish
         }
       }
     }
